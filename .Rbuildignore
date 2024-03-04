@@ -1,0 +1,5 @@
+^renv$
+^renv\.lock$
+^foutsie2\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
